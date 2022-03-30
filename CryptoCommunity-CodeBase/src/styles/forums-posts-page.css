@@ -1,0 +1,28 @@
+.list-group-comments{
+  text-decoration-color: #282c34;
+}
+
+.post-title{
+  padding: 10px;
+  text-align: center;
+  color: darkslategray;
+}
+
+.post-body {
+  padding: 20px;
+  color: darkslategray;
+}
+
+.comment-header{
+  color:aliceblue;
+}
+
+.post-author {
+  padding: 10px;
+  color: darkslategray;
+}
+
+.post-content {
+  padding-top: 10px;
+  background-color: aliceblue;
+}

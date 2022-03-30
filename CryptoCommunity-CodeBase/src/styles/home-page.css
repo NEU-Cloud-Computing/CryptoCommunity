@@ -1,0 +1,24 @@
+.cryptocommunity-header {
+  background-color: slategray;
+  text-align: center;
+  color: aliceblue;
+  padding-bottom: 0px;
+  border-bottom: 0px;
+  margin: 0px;
+  font-family: "Copperplate", Fantasy;
+}
+
+.container-fluid{
+  background-color: slategray;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.recent-posts {
+  padding: 15px;
+  font-family: "Copperplate", Fantasy;
+  color: aliceblue;
+}
+ a {
+  color: white;
+}

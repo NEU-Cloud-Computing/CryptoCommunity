@@ -1,0 +1,45 @@
+.details-welcome {
+  text-align: center;
+  color: aliceblue;
+  font-family: "Copperplate", Fantasy;
+}
+
+.navbar-brand {
+  color: aliceblue;
+}
+
+.section-heading {
+  text-align: left;
+  color: aliceblue;
+  font-family: "Copperplate", Fantasy;
+}
+
+.details-welcome{
+  padding-bottom: 0px;
+}
+
+.nav-buttons {
+  padding-bottom: 10px;
+}
+
+.tool-tip {
+  position: relative;
+  display: inline-block;
+}
+
+.tool-tip .tool-tip-text{
+  visibility: hidden;
+  width: 120px;
+  background-color: slategray;
+  color: aliceblue;
+  font-size: 20px;
+  text-align: center;
+  padding: 10px 10px;
+  border-radius: 10px;
+  top: -5px;
+  left: 105%;
+}
+
+.tool-tip:hover .tool-tip-text {
+  visibility: visible;
+}
